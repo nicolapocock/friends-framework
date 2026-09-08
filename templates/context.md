@@ -1,15 +1,15 @@
 # context
 
-loaded by every agent after rules. this is the brief a new hire gets on day one.
-it's why the output sounds like your business and not a template.
+every agent loads this after rules. it's the brief a new hire gets on day one,
+and it's why the output sounds like your business instead of a template.
 
 ## who we are
 
-[one paragraph — what the business does, how long, what makes it different]
+[one paragraph: what the business does, how long, what makes it different]
 
 ## who we serve
 
-[the customer — who they are, what they're trying to do, what they're afraid of]
+[the customer: who they are, what they're trying to do, what they're worried about]
 
 ## the offer
 
@@ -25,5 +25,5 @@ it's why the output sounds like your business and not a template.
 
 ## voice
 
-[link to or paste the voice guide — reverse-engineered from your own best writing,
-not a vibe. include the banned-phrase list.]
+[link to or paste the voice guide, built from your own best writing.
+include the banned-phrase list.]

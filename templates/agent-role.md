@@ -1,27 +1,27 @@
 # agent role — [name]
 
-copy this file, fill it in for one job, keep it to one page.
-if it needs two pages, the scope is too big.
+copy this, fill it in for one job, keep it to one page.
+if it runs to two pages, the job is too big — split it.
 
 ---
 
-**agent** — [name, borrow a friend]
+**agent** — [name, steal one from friends]
 
-**owns** — [the one job, in one sentence]
+**owns** — [one job, one sentence]
 
-**takes in** — [what it receives, and from which agent or source]
+**takes in** — [what it receives, and who from]
 
-**hands off** — [what it produces, and to whom]
+**hands off** — [what it produces, and who to]
 
-**tools** — [the two or three it actually needs, nothing more]
+**tools** — [the two or three it needs. no more]
 
-**good looks like** — [one sentence: how you know the output is right]
+**done when** — [one line: how you know the output is right]
 
-**never** — [2-3 hard limits: the things it stops and asks a human about]
+**never** — [the 2 or 3 things it must stop and ask a human about]
 
-**loads** — rules.md -> context.md -> [this-skill].md
+**loads** — rules.md -> context.md -> this-file.md
 
 ---
 
-write it in plain language. if you can't explain the job to a smart friend in
-three sentences, the agent can't do it either.
+if you can't explain the job to a friend in three sentences, the agent won't get
+it either. plain words.
