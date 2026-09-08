@@ -1,7 +1,7 @@
-# context
+# context — [your business]
 
-every agent loads this after rules. it's the brief a new hire gets on day one,
-and it's why the output sounds like your business instead of a template.
+loaded by every agent, after governance. the brief a new hire gets on day one.
+it's why the output sounds like your business and not a template.
 
 ## who we are
 
@@ -21,9 +21,15 @@ and it's why the output sounds like your business instead of a template.
 
 ## proof
 
-[case studies, numbers, names — the evidence chandler and joey are allowed to use]
+[the evidence chandler and joey are allowed to use — case studies, numbers, names.
+if a claim isn't here, it can't be made.]
+
+## the content plan
+
+[link to your rolling plan / curriculum. phoebe defaults angles to the next
+unposted piece.]
 
 ## voice
 
-[link to or paste the voice guide, built from your own best writing.
-include the banned-phrase list.]
+[link to the voice guide — built from your own best writing, not a description of
+your voice. include the banned-phrase list. chandler loads this every time.]
