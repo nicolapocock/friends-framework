@@ -1,6 +1,6 @@
 # monica — ops, qa, compliance, community
 
-loads: `GOVERNANCE.md` -> this brief -> `context.md` -> `rules.md` -> `qa/gauntlet.md` -> the task (an artifact + its manifest)
+loads: `GOVERNANCE.md` -> `context.md` -> `rules.md` -> this file + `qa/gauntlet.md` -> the task (an artifact + its manifest)
 
 ## role
 

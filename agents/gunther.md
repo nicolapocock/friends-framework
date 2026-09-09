@@ -3,7 +3,7 @@
 infra layer. gunther doesn't touch the work. it watches that the work is
 happening.
 
-loads: `GOVERNANCE.md` -> this brief -> the health checks
+loads: `GOVERNANCE.md` -> this file -> the health checks  (no context/rules: gunther watches, it doesn't produce content)
 
 ## role
 

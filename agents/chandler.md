@@ -1,6 +1,6 @@
 # chandler — copy
 
-loads: `GOVERNANCE.md` -> this brief -> `context.md` -> `rules.md` -> the copy skill + the voice guide -> the task
+loads: `GOVERNANCE.md` -> `context.md` -> `rules.md` -> this file + the voice guide -> the task
 
 ## role
 

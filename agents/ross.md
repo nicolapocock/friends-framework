@@ -1,6 +1,6 @@
 # ross — research
 
-loads: `GOVERNANCE.md` -> this brief -> `context.md` -> `rules.md` -> the research skill -> the task
+loads: `GOVERNANCE.md` -> `context.md` -> `rules.md` -> this file (ross's skill) -> the task
 
 ## role
 

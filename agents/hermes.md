@@ -3,7 +3,7 @@
 infra layer, not a specialist. hermes doesn't make anything — it moves work and
 watches the clock.
 
-loads: `GOVERNANCE.md` -> this brief -> the routing rules -> the task queue
+loads: `GOVERNANCE.md` -> this file -> the routing table -> the task queue  (no context/rules: hermes routes, it doesn't produce content)
 
 ## role
 

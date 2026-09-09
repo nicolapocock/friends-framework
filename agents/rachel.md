@@ -1,6 +1,6 @@
 # rachel — design
 
-loads: `GOVERNANCE.md` -> this brief -> `context.md` -> `rules.md` -> the design skill + the design system -> the task
+loads: `GOVERNANCE.md` -> `context.md` -> `rules.md` -> this file + the design system -> the task
 
 ## role
 

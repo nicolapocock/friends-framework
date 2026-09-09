@@ -1,6 +1,6 @@
 # phoebe — strategy
 
-loads: `GOVERNANCE.md` -> this brief -> `context.md` -> `rules.md` -> the strategy skill -> the task
+loads: `GOVERNANCE.md` -> `context.md` -> `rules.md` -> this file (phoebe's skill) -> the task
 
 ## role
 

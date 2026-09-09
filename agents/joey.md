@@ -1,6 +1,6 @@
 # joey — outreach
 
-loads: `GOVERNANCE.md` -> this brief -> `context.md` -> `rules.md` -> `outreach/archetype-system.md` -> the task (one prospect row)
+loads: `GOVERNANCE.md` -> `context.md` -> `rules.md` -> this file + `outreach/archetype-system.md` -> the task (one prospect row)
 
 ## role
 
